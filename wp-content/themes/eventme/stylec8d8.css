@@ -1,0 +1,194 @@
+
+// Theme Color
+
+body{
+    background-color: #1E90FF;
+}
+
+body.boxed {
+    background:  url(assets/img/patterns/square_bg.png) 50% 0 repeat fixed #1E90FF;
+}
+
+.page-section.overcolor .parallax-overlay,
+.overcolor .parallax-overlay {
+    background-color: rgba(109,183, 255, 0.5);
+}
+
+.owl-theme .owl-controls .owl-page.active span {
+    background-color: #1E90FF;
+}
+
+h1 .fa,
+h2 .fa,
+h3 .fa,
+h4 .fa,
+h5 .fa,
+h6 .fa {
+    color: #1E90FF;
+}
+
+.section-title small:before,
+.bloglist small:before{
+    background-color: #1E90FF;
+}
+
+
+
+a,
+a:hover,
+a:active,
+a:focus {
+    color: #1E90FF;
+}
+
+
+
+.sf-menu li > a {
+    color: #e0ffff;
+}
+
+.do-up:hover .caption-category a {
+    color: #e0ffff;
+}
+
+.sf-menu > li > a.active-off:after,
+.sf-menu > li.active > a:after,
+.sf-menu > li:hover > a:after,
+.sf-menu > li.sfHover-off > a:after {
+    background-color: #e0ffff !important;
+}
+
+.list-ul .fa {
+    color: #1E90FF;
+}
+
+.btn-theme-primary {
+    background-color: #1E90FF;
+    border-color: #1E90FF;
+}
+
+.btn-theme-primary:focus,
+.btn-theme-primary:active,
+.btn-theme-primary:hover {
+    background-color: #1E90FF;
+    border-color: #1E90FF;
+}
+
+.btn-theme-white:hover {
+    background-color: #1E90FF;
+}
+
+.form-control:focus {
+    border-color: #1E90FF;
+}
+
+.price-table-header {
+    background-color: #1E90FF;
+}
+
+.wide .header.sticky-header,
+.boxed .header.sticky-header > .container {
+    background-color: rgba(109, 183,255, 0.9)
+}
+
+.wide .header,
+.boxed .header > .container {
+    background-color: #1E90FF;
+}
+
+.sub-menu a:hover {
+    color: #1E90FF !important;
+}
+
+.post-author a:hover {
+    color: #1E90FF;
+}
+
+.post-meta a:hover {
+    color: #1E90FF;
+}
+
+.post-media .media-link {
+    background-color: #1E90FF;
+}
+
+.post-title a:hover {
+    color: #1E90FF;
+}
+
+.timeline .item-left .dot,
+.timeline .item-right .dot {
+    background-color: #1E90FF;
+}
+
+.nav-tabs > li > a {
+    color: #1E90FF;
+}
+
+.do-up:hover .caption {
+    background-color: #1E90FF;
+}
+
+.do-up .caption-category a {
+    color: #1E90FF;
+}
+
+.do-up .caption-social {
+    background-color: #6DB7FF}
+
+.do-hover .caption {
+    background-color: rgba(109,183, 255, 0.5);    
+}
+
+.feature:hover .media-object,
+.feature.hover .media-object {
+    color: #1E90FF;
+}
+
+.last-tweet .twitter-icon .fa {
+    color: #1E90FF;
+}
+
+.last-tweet a {
+    color: #1E90FF;
+}
+
+.media .post-date {
+    color: #1E90FF;
+}
+
+.totop {
+    background-color: #1E90FF;
+}
+
+.totop:hover {
+    background-color: rgba(109,183, 255, 0.5);
+}
+
+.gallery_schedule .owl-prev,
+.gallery_schedule .owl-next{
+  color: #1E90FF!important;
+}
+
+
+.pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus{
+  
+  background-color: #1E90FF;
+  border-color:#1E90FF;
+}
+
+.pagination>li>a, .pagination>li>span{
+  color:#1E90FF;
+}
+.pagination span.current{
+  background-color: #1E90FF;
+  border-color:#1E90FF;
+  color: #fff; 
+}
+
+.widget_tag_cloud .tagcloud a:hover{
+  background-color: #1E90FF;
+  cursor: pointer:
+}
+
+
