@@ -1813,10 +1813,10 @@ display: inline-block;
     font-size: 130px;
     line-height: 1;
     text-transform: uppercase;
-    color: #ffffff;
+    color: red;
     margin-top: 0;
     margin-bottom: 30px;
-    text-shadow: 4px 4px 0 rgba(0, 0, 0, .4);
+    text-shadow: 6px 6px 0 rgba(0, 0, 0);
 }
 
 .alternate .slide-title {
@@ -2002,7 +2002,7 @@ display: inline-block;
     border-radius: 0;
     padding-top: 25px;
     padding-bottom: 25px;
-    border: solid 1px #a4acb5;
+    border: solid 1px black;
     font-size: 18px;
     line-height: 18px;
     text-transform: uppercase;
@@ -2014,7 +2014,7 @@ display: inline-block;
     color: #ffffff;
 }
 .timeline-tabs .nav-pills > li.active > a {
-    background-color: #a4acb5;
+    background-color: black;
     color: #ffffff;
 }
 .timeline-tabs .nav-pills > li + li a {

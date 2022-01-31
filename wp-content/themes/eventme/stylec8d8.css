@@ -29,7 +29,7 @@ h6 .fa {
 
 .section-title small:before,
 .bloglist small:before{
-    background-color: #1E90FF;
+    background-color: black;
 }
 
 
@@ -118,7 +118,7 @@ a:focus {
 
 .timeline .item-left .dot,
 .timeline .item-right .dot {
-    background-color: #1E90FF;
+    background-color: black;
 }
 
 .nav-tabs > li > a {
@@ -126,7 +126,7 @@ a:focus {
 }
 
 .do-up:hover .caption {
-    background-color: #1E90FF;
+    background-color: black;
 }
 
 .do-up .caption-category a {
